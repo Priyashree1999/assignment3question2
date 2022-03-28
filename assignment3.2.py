@@ -1,4 +1,4 @@
-def rev_of_string(a):#python
+def rev_of_string(a):
     print("After reversing the string: ",end='')
     for i in range((len(a))-1,-1,-1):
         
